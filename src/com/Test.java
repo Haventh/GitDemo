@@ -6,4 +6,8 @@ public class Test {
         System.out.println("测试");
     }
 
+    private void test(){
+        System.out.println("test");
+    }
+
 }
